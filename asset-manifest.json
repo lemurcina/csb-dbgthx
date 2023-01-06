@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://lemurcina.github.io/csb-dbgthx/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://lemurcina.github.io/csb-dbgthx/static/js/main.f399465a.chunk.js",
+    "main.js.map": "https://lemurcina.github.io/csb-dbgthx/static/js/main.f399465a.chunk.js.map",
+    "runtime-main.js": "https://lemurcina.github.io/csb-dbgthx/static/js/runtime-main.edc320a8.js",
+    "runtime-main.js.map": "https://lemurcina.github.io/csb-dbgthx/static/js/runtime-main.edc320a8.js.map",
+    "static/js/2.fef78c52.chunk.js": "https://lemurcina.github.io/csb-dbgthx/static/js/2.fef78c52.chunk.js",
+    "static/js/2.fef78c52.chunk.js.map": "https://lemurcina.github.io/csb-dbgthx/static/js/2.fef78c52.chunk.js.map",
+    "index.html": "https://lemurcina.github.io/csb-dbgthx/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://lemurcina.github.io/csb-dbgthx/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.fef78c52.chunk.js.LICENSE.txt": "https://lemurcina.github.io/csb-dbgthx/static/js/2.fef78c52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edc320a8.js",
+    "static/js/2.fef78c52.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f399465a.chunk.js"
+  ]
+}
